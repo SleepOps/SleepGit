@@ -89,7 +89,7 @@ module.exports = configure(function(ctx) {
       iconSet: 'material-icons', // Quasar icon set
       lang: 'zh-hans', // Quasar language pack
       config: {
-        dark: true
+        dark: false
       },
 
       // Possible values for "importStrategy":
